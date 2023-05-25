@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.localIP.txt
 
 # testing
 /coverage
